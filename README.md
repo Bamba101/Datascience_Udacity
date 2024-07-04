@@ -2,7 +2,8 @@
 
 ## Libraries 
 Language:Python programming language 
-libraries pandas, numpy,seaborn & matplotlib
+
+libraries: pandas, numpy,seaborn & matplotlib
 
 ## File description
 Stack_Overflow_RB.ipynb : Python Notebook withCode used Used for analysis
